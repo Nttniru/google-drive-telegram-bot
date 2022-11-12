@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5700794069:AAEX53T5GLlimcjBPXI9AF6RU6yqrrfuRUE"
+    APP_ID = "952608"
+    API_HASH = "8d8d0ad8e3d4bcd54420190f57da78ad"
+    DATABASE_URL = "mongodb+srv://NiruTech:Niru#123@cluster0.itmxbk1.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "818269274" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
